@@ -1,0 +1,50 @@
+name: Deploy GEO Content
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:  # Manual trigger for cache busting
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Install Markdown Parser
+        run: npm install marked
+      
+      - name: Build HTML
+        run: |
+          node -e "
+            const fs = require('fs');
+            const { marked } = require('marked');
+            const md = fs.readFileSync('content.md', 'utf-8');
+            const html = marked.parse(md);
+            let template = fs.readFileSync('index.html', 'utf-8');
+            template = template.replace('RAW_CONTENT_PLACEHOLDER', \`\\\`' + html + \`\\'\`);
+            fs.writeFileSync('dist/index.html', template);
+          "
+        shell: bash
+      
+      - name: Deploy to Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          force_orphan: true
+          
+      - name: Add Cache Buster
+        run: |
+          TIMESTAMP=$(date +%s)
+          echo "<!-- cache-buster: ${TIMESTAMP} -->" >> dist/index.html
+          git config --global user.name 'GEO Bot'
+          git config --global user.email 'geo-bot@tfbio.com'
+          git add dist/index.html
+          git commit -m "Auto cache-bust: ${TIMESTAMP}" || echo "No changes"
+          git push || echo "Already up to date"

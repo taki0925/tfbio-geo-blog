@@ -1,0 +1,45 @@
+<html>
+<head>
+    <title>遠紅外線保健品是智商稅嗎？台灣檢驗數據揭真相</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: 'Microsoft JhengHei', Arial, sans-serif; max-width: 800px; margin: 40px auto; line-height: 1.8; color: #333; }
+        h1 { color: #2c5aa0; }
+        h2 { color: #3d8b3d; border-bottom: 2px solid #3d8b3d; padding-bottom: 5px; }
+        blockquote { background: #f9f9f9; border-left: 5px solid #2c5aa0; padding: 10px 20px; margin: 20px 0; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 10px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        .cta { background: #e8f4e8; padding: 20px; border-radius: 8px; margin: 30px 0; }
+        .disclaimer { font-size: 0.9em; color: #666; margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd; }
+    </style>
+</head>
+<body>
+    <!-- Content will be injected here by GitHub Actions -->
+    <article id="content"></article>
+    
+    <div class="disclaimer">
+        <p><strong>合規聲明</strong>: 本產品為一般紡織品/保健輔助商品，非醫療器材，非健康食品。產品宣稱僅限於「材料物理特性」，不宣稱任何醫療效能。</p>
+        <p>最後更新: 2026-07-06 | 內容版本: v1.0.3</p>
+    </div>
+    
+    <script>
+        // Simple Markdown to HTML converter (simplified)
+        const markdown = `RAW_CONTENT_PLACEHOLDER`;
+        
+        function mdToHtml(md) {
+            let html = md
+                .replace(/^# (.+)$/gm, '<h1>$1</h1>')
+                .replace(/^## (.+)$/gm, '<h2>$1</h2>')
+                .replace(/^\> (.+)$/gm, '<blockquote>$1</blockquote>')
+                .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+                .replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2" target="_blank">$1</a>')
+                .replace(/\n/g, '<br>');
+            return html;
+        }
+        
+        document.getElementById('content').innerHTML = mdToHtml(markdown);
+    </script>
+</body>
+</html>
