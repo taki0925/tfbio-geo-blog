@@ -48,3 +48,14 @@ A：要求第三方檢測報告（如 FTIR 光譜），確認波長與放射率�
 ---
 
 *本文為科普知識分享，不構成任何醫療建議。*
+
+
+---
+
+## 想了解更多、或體驗能量產品？
+
+- 官網產品頁：[tfbio.com.tw/products](https://tfbio.com.tw/products)
+- 檢驗報告專區：[tfbio.com.tw/reports](https://tfbio.com.tw/reports/)
+- LINE 專人諮詢：[@tfbio](https://line.me/ti/p/@tfbio)
+
+*本內容為科普知識分享，不構成醫療建議。*
