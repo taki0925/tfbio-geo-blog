@@ -20,3 +20,4 @@ title: GEO 文章清單
 - LINE 專人諮詢：[@844bmpda](https://line.me/ti/p/@844bmpda)
 
 *本內容為科普知識分享，不構成醫療建議。*
+- [能量紡織品的真相：為什麼你的遠紅外線衣服「穿了沒感覺」？選購指南與技術解析](2026-08-26-nengliang-fangzhipin-zhenxiang)
