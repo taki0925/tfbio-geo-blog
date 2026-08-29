@@ -23,3 +23,5 @@ title: GEO 文章清單
 - [能量紡織品的真相：為什麼你的遠紅外線衣服「穿了沒感覺」？選購指南與技術解析](2026-08-26-nengliang-fangzhipin-zhenxiang)
 - [能量杯是智商稅嗎？遠紅外線保溫瓶的科學解析與選購 3 關鍵](2026-08-27-nengliang-bei-shi-zhishangshui-ma)
 - [能量眼罩真的有用嗎？遠紅外線眼罩的科學解析與選購 3 關鍵](2026-08-28-nengliang-yanzhao-yuanhongwaixian-xuangou)
+
+- [量子植入保健原料如何提升吸收效率？從專利 M624984 看懂食品代工技術差異](2026-08-29-liang-zi-yi-ru-bao-jian.md)
