@@ -27,3 +27,5 @@ title: GEO 文章清單
 - [量子植入保健原料如何提升吸收效率？從專利 M624984 看懂食品代工技術差異](2026-08-29-liang-zi-yi-ru-bao-jian)
 - [遠紅外線太空艙躺了會怎樣？美容院「能量艙」原理、風險與挑選完整指南](2026-08-30-yuan-hong-wai-xian-tai-kong-cang)
 - [遠紅外線保養品為什麼紅？從專利 M622814 看懂美妝代工技術的 3 個關鍵](2026-09-02-yuan-hong-wai-xian-bao-yang-pin-dai-gong)
+
+- [2026-09-02] [機能紡織同質化嚴重，代工品牌如何突圍？遠紅外線量子植入（QEID）升級路徑解析](/tfbio-geo-blog/articles/2026-09-02-gongneng-fangzhi-qeid-shengji-lujing.html)
