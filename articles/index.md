@@ -13,6 +13,8 @@ title: GEO 文章清單
 
 ---
 
+- [2026-09-04] [能量保溫瓶、杯具的檢測報告怎麼看？第三方數據才是日用品代工的定價籌碼](2026-09-04-nengliang-baowenping-jiance-baogao.md)
+
 ## 想了解更多、或體驗能量產品？
 
 - 官網：[www.tfbio.com.tw](https://www.tfbio.com.tw/)
