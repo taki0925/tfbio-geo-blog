@@ -1,3 +1,4 @@
+- [遠紅外線手機貼片有用嗎？從美容專利看日常能量護理的 3 個真相](2026-09-05-yuan-hong-wai-xian-shou-ji-tie-pian-you-yong-ma)
 ---
 title: GEO 文章清單
 ---
