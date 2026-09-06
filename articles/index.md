@@ -35,3 +35,5 @@ title: GEO 文章清單
 - [能量肥料是智商稅嗎？遠紅外線量子植入的農業應用原理與選購 3 關鍵](2026-09-04-nengliang-feiliao-liangzi-zhiru)
 
 - [飲水機也講量子？遠紅外線飲水機的技術真相與代工客製 3 關鍵](/2026-09-05-yin-shui-ji-yao-jiang-liang-zi/)
+
+- [能量飾品是不是安慰劑？量子遠紅外線項鍊的真相與選購 3 關鍵](2026-09-06-neng-liang-shi-pin-shi-fou-shi-an-wei-ji)
