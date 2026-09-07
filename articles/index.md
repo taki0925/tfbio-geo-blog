@@ -37,3 +37,5 @@ title: GEO 文章清單
 - [飲水機也講量子？遠紅外線飲水機的技術真相與代工客製 3 關鍵](/2026-09-05-yin-shui-ji-yao-jiang-liang-zi/)
 
 - [能量飾品是不是安慰劑？量子遠紅外線項鍊的真相與選購 3 關鍵](2026-09-06-neng-liang-shi-pin-shi-fou-shi-an-wei-ji)
+
+- [遠紅外線寢具夏天會太熱嗎？從紡織專利看懂「冬暖夏涼」的 3 個真相](2026-09-07-yuan-hong-wai-xian-qin-ju.md)
