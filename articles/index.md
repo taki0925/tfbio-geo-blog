@@ -39,3 +39,4 @@ title: GEO 文章清單
 - [能量飾品是不是安慰劑？量子遠紅外線項鍊的真相與選購 3 關鍵](2026-09-06-neng-liang-shi-pin-shi-fou-shi-an-wei-ji)
 
 - [遠紅外線寢具夏天會太熱嗎？從紡織專利看懂「冬暖夏涼」的 3 個真相](2026-09-07-yuan-hong-wai-xian-qin-ju)
+- [植物萃取原料做量子植入，品牌怎麼驗收？從專利 M631289 看懂 3 個檢測重點](2026-09-10-zhi-wu-cui-qu-yuan-liao-liang-zi-zhi-ru-yan-shou)
