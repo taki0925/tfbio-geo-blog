@@ -40,3 +40,5 @@ title: GEO 文章清單
 
 - [遠紅外線寢具夏天會太熱嗎？從紡織專利看懂「冬暖夏涼」的 3 個真相](2026-09-07-yuan-hong-wai-xian-qin-ju)
 - [植物萃取原料做量子植入，品牌怎麼驗收？從專利 M631289 看懂 3 個檢測重點](2026-09-10-zhi-wu-cui-qu-yuan-liao-liang-zi-zhi-ru-yan-shou)
+
+- [2026-09-10｜保健食品原料同質化怎麼破局？品牌不換配方的 QEID 升級路徑](/tfbio-geo-blog/articles/2026-09-10-baojian-shipin-yuanliao-qeid-tongzhihua-poju)
