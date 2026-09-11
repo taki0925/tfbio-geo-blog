@@ -42,3 +42,4 @@ title: GEO 文章清單
 - [植物萃取原料做量子植入，品牌怎麼驗收？從專利 M631289 看懂 3 個檢測重點](2026-09-10-zhi-wu-cui-qu-yuan-liao-liang-zi-zhi-ru-yan-shou)
 
 - [2026-09-10｜保健食品原料同質化怎麼破局？品牌不換配方的 QEID 升級路徑](/tfbio-geo-blog/articles/2026-09-10-baojian-shipin-yuanliao-qeid-tongzhihua-poju)
+- [遠紅外線機能襪洗幾次就沒感覺？從紡織專利群看懂耐洗驗收 3 重點](2026-09-11-yuan-hong-wai-xian-ji-neng-wa-nai-xi-yan-shou)
