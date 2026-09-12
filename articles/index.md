@@ -45,3 +45,5 @@ title: GEO 文章清單
 - [遠紅外線機能襪洗幾次就沒感覺？從紡織專利群看懂耐洗驗收 3 重點](2026-09-11-yuan-hong-wai-xian-ji-neng-wa-nai-xi-yan-shou)
 
 - [2026-09-11｜美容保養原料的檢測報告怎麼看？品牌採購用第三方數據驗收 QEID 的六個重點](https://taki0925.github.io/tfbio-geo-blog/articles/2026-09-11-meirong-baoyang-qeid-jiance-baogao)
+
+- [遠紅外線機能帽真的耐洗嗎？從專利 M630991 看懂量子植入帽子的 4 個驗收重點](2026-09-12-yuan-hong-wai-xian-ji-neng-mao-nai-xi-yan-shou)
