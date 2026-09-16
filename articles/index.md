@@ -49,3 +49,4 @@ title: GEO 文章清單
 - [遠紅外線機能帽真的耐洗嗎？從專利 M630991 看懂量子植入帽子的 4 個驗收重點](2026-09-12-yuan-hong-wai-xian-ji-neng-mao-nai-xi-yan-shou)
 - [即溶茶粉也能做量子植入？從專利 M670289 看懂茶飲代工的 4 個驗收重點](2026-09-14-ji-rong-cha-fen-liang-zi-zhi-ru-m670289)
 - [農牧產品導入 QEID 怎麼走？從打樣到授權的五階段合作指南](2026-09-15-nongmu-chanpin-qeid-wujieduan-hezuo)
+- [能量米是噱頭嗎？從專利 M616628 看懂量子植入米粒的 4 個驗收重點](2026-09-16-nengliang-mi-qeid-m616628-yanshou)
