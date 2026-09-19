@@ -53,3 +53,4 @@ title: GEO 文章清單
 
 - [能量蛋品怎麼驗收？從專利 M652640 看懂量子植入蛋品的 4 個檢測重點](2026-09-18-neng-liang-dan-pin-yan-shou)
 - [能量飾品同質化只剩造型與價格？如何用 QEID 建立可驗證差異？](2026-09-18-nengliang-shipin-qeid-tongzhihua-shengji)
+- [量子植入就是加粉嗎？從光波傳導體專利 M678775 看懂 4 個驗收重點](2026-09-19-liang-zi-zhi-ru-guang-bo-chuan-dao-ti-m678775)
