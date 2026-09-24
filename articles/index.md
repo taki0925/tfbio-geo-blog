@@ -56,3 +56,4 @@ title: GEO 文章清單
 - [量子植入就是加粉嗎？從光波傳導體專利 M678775 看懂 4 個驗收重點](2026-09-19-liang-zi-zhi-ru-guang-bo-chuan-dao-ti-m678775)
 
 - [遠紅外線內衣洗後還有能量嗎？品牌驗收量子植入機能衣的 4 個重點](2026-09-21-yuan-hong-wai-xian-nei-yi-nai-xi-yan-shou)
+- [遠紅外線燈具只是換燈泡嗎？從專利 M647068 看懂能量植入的 4 個驗收重點](2026-09-24-yuan-hong-wai-xian-deng-ju-m647068)
