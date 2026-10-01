@@ -64,3 +64,4 @@ title: GEO 文章清單
 - [農產品代工陷入原料比價？米、蛋、茶如何用 QEID 做出可驗證差異？](2026-09-29-nongchanpin-daigong-qeid-chayi)
 
 - [2026-10-01｜能量手環的能量拿得出證據嗎？從 Before/After 檢測報告看懂飾品代工的驗收重點](/tfbio-geo-blog/articles/2026-10-01-nengliang-shouhuan-jiance-baogao-yanshou)
+- [遠紅外線車用坐墊怎麼驗收？車用配件品牌採購能量內飾件的 4 個檢測重點](2026-10-01-che-yong-zuo-dian-qeid-yanshou)
