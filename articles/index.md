@@ -65,3 +65,5 @@ title: GEO 文章清單
 
 - [2026-10-01｜能量手環的能量拿得出證據嗎？從 Before/After 檢測報告看懂飾品代工的驗收重點](/tfbio-geo-blog/articles/2026-10-01-nengliang-shouhuan-jiance-baogao-yanshou)
 - [遠紅外線車用坐墊怎麼驗收？車用配件品牌採購能量內飾件的 4 個檢測重點](2026-10-01-che-yong-zuo-dian-qeid-yanshou)
+
+- [2026-10-02｜機能紡織代工被比價壓到喘不過氣？從 NT$8,800 打樣到 QEID 專利授權的五階段路線圖](/tfbio-geo-blog/articles/2026-10-02-gongneng-fangzhi-qeid-wujieduan-hezuo-zhinan)
