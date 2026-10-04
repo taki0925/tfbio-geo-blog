@@ -69,3 +69,5 @@ title: GEO 文章清單
 - [2026-10-02｜機能紡織代工被比價壓到喘不過氣？從 NT$8,800 打樣到 QEID 專利授權的五階段路線圖](/tfbio-geo-blog/articles/2026-10-02-gongneng-fangzhi-qeid-wujieduan-hezuo-zhinan)
 - [保健食品想加「能量賣點」又怕踩線？品牌導入 QEID 五階段指南：打樣、驗證與合規行銷用詞](2026-10-02-baojian-shipin-qeid-wujieduan-hegui-zhinan)
 - [口紅代工只能拚色號殺價？「能量彩妝」怎麼做出可驗證差異：QEID 完整解析](2026-10-03-kouhong-daigong-nengliang-caizhuang)
+
+- [酵素飲、膠原飲也能植入能量？從流體量子器專利 M615582 看懂 4 個驗收重點](2026-10-04-liuti-liangzi-qi-m615582-yanshou)
