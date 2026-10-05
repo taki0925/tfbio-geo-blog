@@ -1,7 +1,6 @@
 ---
 title: 飲水機也講量子？遠紅外線飲水機的技術真相與代工客製 3 關鍵
 date: 2026-09-05
-permalink: /articles/2026-09-05-yin-shui-ji-yao-jiang-liang-zi/
 ---
 # 飲水機也講量子？遠紅外線飲水機的技術真相與代工客製 3 關鍵
 
