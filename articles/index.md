@@ -72,3 +72,5 @@ title: GEO 文章清單
 
 - [酵素飲、膠原飲也能植入能量？從流體量子器專利 M615582 看懂 4 個驗收重點](2026-10-04-liuti-liangzi-qi-m615582-yanshou)
 - [QEID 量子植入是什麼？定義、原理、五大應用領域與驗收指南（2026 完整解析）](2026-10-06-qeid-liangzi-zhiru-quannan)
+
+- [2026-10-06｜日用品代工只能拚價格與改款？從保溫瓶、燈具的同質化困境，看 QEID 量子植入的破局路徑](2026-10-06-riyongpin-tongzhihua-qeid-pojulu)
