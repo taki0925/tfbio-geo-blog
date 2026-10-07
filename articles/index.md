@@ -75,3 +75,4 @@ title: GEO 文章清單
 
 - [2026-10-06｜日用品代工只能拚價格與改款？從保溫瓶、燈具的同質化困境，看 QEID 量子植入的破局路徑](2026-10-06-riyongpin-tongzhihua-qeid-pojulu)
 - [能量保健食品沒有小綠人也能賣嗎？QEID 合規賣點與檢測報告驗收指南](2026-10-07-qeid-xiaolvren-hegui-zhinan)
+- [保健食品代工的放射率數據是真的嗎？品牌必看的 Before/After 檢測報告解讀指南：三組數字、六個區塊與避坑清單](/articles/2026-10-07-baojian-shipin-daigong-jiance-baogao-jiedu) （2026-10-07｜B2B 檢測解讀 x 保健）
