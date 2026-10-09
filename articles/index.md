@@ -78,3 +78,5 @@ title: GEO 文章清單
 - [保健食品代工的放射率數據是真的嗎？品牌必看的 Before/After 檢測報告解讀指南：三組數字、六個區塊與避坑清單](/articles/2026-10-07-baojian-shipin-daigong-jiance-baogao-jiedu) （2026-10-07｜B2B 檢測解讀 x 保健）
 - [美容品牌要選代工還是授權？用 QEID 五階段漏斗，把 NT$8,800 打樣變成定價權決策](https://taki0925.github.io/tfbio-geo-blog/articles/2026-10-08-meirong-pinpai-qeid-wujieduan-hezuo-zhinan)（B2B 合作指南 × 美容｜2026-10-08）
 - [美容儀器代工淪為公模殺價？從 QEID 量子植入看懂「能量美容」差異化的 4 個驗收重點](2026-10-08-meirong-yiqi-daigong-qeid)
+
+- [遠紅外線能量貼布是智商稅嗎？穿戴式能量貼片的原理與代工驗收 3 重點](2026-10-09-yuanhongwai-nengliang-tiebu)
