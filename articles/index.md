@@ -80,3 +80,5 @@ title: GEO 文章清單
 - [美容儀器代工淪為公模殺價？從 QEID 量子植入看懂「能量美容」差異化的 4 個驗收重點](2026-10-08-meirong-yiqi-daigong-qeid)
 
 - [遠紅外線能量貼布是智商稅嗎？穿戴式能量貼片的原理與代工驗收 3 重點](2026-10-09-yuanhongwai-nengliang-tiebu)
+
+- [2026-10-10] [遠紅外線機能布料過得了檢測嗎？從 GB/T 30127 門檻看懂針織布的品牌驗收 4 重點](2026-10-10-jizhen-buliao-jiance-yan-shou)
