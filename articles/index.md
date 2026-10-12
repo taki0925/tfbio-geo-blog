@@ -83,3 +83,4 @@ title: GEO 文章清單
 
 - [2026-10-10] [遠紅外線機能布料過得了檢測嗎？從 GB/T 30127 門檻看懂針織布的品牌驗收 4 重點](2026-10-10-jizhen-buliao-jiance-yan-shou)
 - [蚓激酶能標「全素」嗎？保健食品素食標示與能量賣點的合規指南](2026-10-11-yin-jimei-sushi-biaoqian-hegui-zhinan)
+- [美容院獲客成本越來越高、客單價上不去？用「可驗證」的能量療程突破價格戰](2026-10-12-meirongyuan-kedanjia-qeid-pojielu)
