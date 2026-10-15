@@ -69,3 +69,4 @@ title: GEO 文章清單
 - LINE 專人諮詢：[@844bmpda](https://line.me/ti/p/@844bmpda)
 
 *本內容為科普知識分享，不構成醫療建議。*
+- [鈦鋼、銀飾、水晶都能做量子植入嗎？能量飾品材質相容性與代工流程完整指南](2026-10-15-nengliang-shipin-caizhi-xiangrongxing-daigong-zhinan)
