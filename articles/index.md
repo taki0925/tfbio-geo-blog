@@ -70,3 +70,4 @@ title: GEO 文章清單
 
 *本內容為科普知識分享，不構成醫療建議。*
 - [鈦鋼、銀飾、水晶都能做量子植入嗎？能量飾品材質相容性與代工流程完整指南](2026-10-15-nengliang-shipin-caizhi-xiangrongxing-daigong-zhinan)
+- [機能紡織被負評「都是噱頭」？從紡織專利群看 QEID 量子植入如何做出可驗證的能量賣點](2026-10-16-jineng-fangzhi-fuping)
