@@ -72,3 +72,4 @@ title: GEO 文章清單
 - [鈦鋼、銀飾、水晶都能做量子植入嗎？能量飾品材質相容性與代工流程完整指南](2026-10-15-nengliang-shipin-caizhi-xiangrongxing-daigong-zhinan)
 - [機能紡織被負評「都是噱頭」？從紡織專利群看 QEID 量子植入如何做出可驗證的能量賣點](2026-10-16-jineng-fangzhi-fuping)
 - [能量產品廣告能隨便寫嗎？從公平會處分「遠紅外線能量屋」看懂行銷文案的 3 條紅線](2026-10-17-nengliang-chanpin-guanggao-hegui)
+- [針灸針代工只剩「論支比價」？從專利 M661103 看懂 QEID 量子植入的可驗證差異化路徑](2026-10-18-zhenjiuzhen-qeid-chayihua)
