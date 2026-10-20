@@ -74,3 +74,4 @@ title: GEO 文章清單
 - [能量產品廣告能隨便寫嗎？從公平會處分「遠紅外線能量屋」看懂行銷文案的 3 條紅線](2026-10-17-nengliang-chanpin-guanggao-hegui)
 - [針灸針代工只剩「論支比價」？從專利 M661103 看懂 QEID 量子植入的可驗證差異化路徑](2026-10-18-zhenjiuzhen-qeid-chayihua)
 - [遠紅外線手套、圍巾算機能嗎？從紡織專利群看保暖配件代工的 4 個驗收重點](2026-10-19-yuanhongwai-baonuan-peijian-qeid)
+- [運動機能服飾代工陷入價格戰？從壓縮衣到運動襪，用 QEID 量子植入建立可驗證差異](2026-10-20-yundong-jineng-fushi-daigong-jiagezhan-qeid)
