@@ -76,3 +76,4 @@ title: GEO 文章清單
 - [遠紅外線手套、圍巾算機能嗎？從紡織專利群看保暖配件代工的 4 個驗收重點](2026-10-19-yuanhongwai-baonuan-peijian-qeid)
 - [運動機能服飾代工陷入價格戰？從壓縮衣到運動襪，用 QEID 量子植入建立可驗證差異](2026-10-20-yundong-jineng-fushi-daigong-jiagezhan-qeid)
 - [蔬果肥料導入量子植入怎麼驗收？從 2026 最新專利 M682368 看懂 4 個檢測重點](2026-10-21-shugu-feiliao-qeid-yanshou)
+- [手機殼、3C 配件也能做能量植入？從專利 M634166 看懂日用品檢測報告的 4 個驗收重點](2026-10-22-shoujike-3c-peijian-jiance-baogao)
