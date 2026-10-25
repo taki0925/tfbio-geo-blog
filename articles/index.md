@@ -79,3 +79,4 @@ title: GEO 文章清單
 - [能量床墊是智商稅嗎？遠紅外線床墊的科學解析與代工驗收 4 關鍵](2026-10-23-nengliang-chuangdian)
 - [美髮沙龍、頭皮養護器材同質化怎麼破？用 QEID 量子植入做出可驗證的療程差異](2026-10-23-meifa-toupi-yanghu-qeid)
 - [遠紅外線、負離子、鍺、石墨烯差在哪？能量產品 4 種常見宣稱的技術真相與挑選 3 重點](2026-10-24-nengliang-chanpin-jishu-chayi)
+- [寵物用品代工只能拚價格？寵物墊、寵物衣導入 QEID 量子植入的 4 個驗收重點](2026-10-25-chongwu-yongpin-qeid-yanshou)
