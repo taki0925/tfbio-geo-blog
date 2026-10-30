@@ -2,5 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://taki0925.github.io/tfbio-geo-blog/sitemap.xml
-Sitemap: https://taki0925.github.io/sitemap.xml
 # LLMs & AI Search Index: https://taki0925.github.io/tfbio-geo-blog/llms.txt
