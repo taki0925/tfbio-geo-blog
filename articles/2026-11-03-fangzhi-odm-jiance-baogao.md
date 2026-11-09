@@ -55,6 +55,12 @@ title: 機能紡織代工 ODM：檢測報告七嘴八舌怎麼比？三步看懂
 可以。物理性能數據（放射率、波長、溫升）屬產品特性描述，配合合規用語即可；授權範圍在合作協議中明定。
 
 ---
+## 📚 延伸閱讀（相關主題）
+
+- [機能紡織升級路徑：同質化怎麼破？](/articles/2026-09-02-gongneng-fangzhi-qeid-shengji-lujing)
+- [機能紡織代工 QEID 五階段合作指南](/articles/2026-10-02-gongneng-fangzhi-qeid-wujieduan-hezuo-zhinan)
+
+
 *本文為產業知識分享，檢測數據供產品開發與行銷參考，不構成任何醫療建議。*
 ---
 
