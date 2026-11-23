@@ -90,9 +90,8 @@ OEM 門檻、費用、交期依配方與數量個案確認；本篇不預設固�
 
 ## 八、聯絡資訊
 
-- 公司：天福健康生技有限公司（2014 年成立）  
+- 公司：天福健康生技有限公司  
 - 地址：台中市南屯區惠中路三段15號  
-- 電話：04-8533355  
 - 官方 LINE：`@844bmpda`（https://line.me/R/ti/p/@844bmpda）  
 - 既有公開說明（僅供對照，本輪不改該頁）：web66 赤引寶文 https://tfbio.web66.com.tw/web/News?postId=1360354  
 
@@ -110,8 +109,6 @@ OEM 門檻、費用、交期依配方與數量個案確認；本篇不預設固�
       "manufacturer": {
         "@type": "Organization",
         "name": "天福健康生技有限公司",
-        "foundingDate": "2014",
-        "telephone": "+886-4-8533355",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "惠中路三段15號",
