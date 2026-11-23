@@ -59,6 +59,7 @@ title: 機能紡織代工 ODM：檢測報告七嘴八舌怎麼比？三步看懂
 
 - [機能紡織升級路徑：同質化怎麼破？](/articles/2026-09-02-gongneng-fangzhi-qeid-shengji-lujing)
 - [機能紡織代工 QEID 五階段合作指南](/articles/2026-10-02-gongneng-fangzhi-qeid-wujieduan-hezuo-zhinan)
+- [常溫遠紅外線代工：QEID 製程與襪品 MOQ 計價](/qeid-far-infrared-b2b.html)
 
 
 *本文為產業知識分享，檢測數據供產品開發與行銷參考，不構成任何醫療建議。*
